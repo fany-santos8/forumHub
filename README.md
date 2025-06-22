@@ -26,7 +26,7 @@ A API FórumHub permite as seguintes operações:
 ## Vídeo de funcionamento
 
 
-https://github.com/ThiagoDeSena/Forum-Hub/assets/110785400/19b4f4ee-300e-484f-879e-25a59e781da6
+
 
 
 ## Tecnologias Utilizadas
@@ -47,7 +47,7 @@ https://github.com/ThiagoDeSena/Forum-Hub/assets/110785400/19b4f4ee-300e-484f-87
 
 ## Diagrama do Banco de Dados
 
-![Tópico](https://github.com/ThiagoDeSena/Forum-Hub/assets/110785400/70872da6-ea07-4446-80ce-8ef87854bf08)
+
 
 ## Como Configurar e Executar
 
@@ -77,7 +77,7 @@ api.security.token.secret=${JWT_SECRET:12345678}
 
   4.A documentação da API gerada pelo Spring Doc pode ser acessada em ```http://localhost:8080/swagger-ui.html```.
 
-  ![swagger-forumHub](https://github.com/ThiagoDeSena/Forum-Hub/assets/110785400/f1cc7dda-4f38-4857-8de8-22c5552c0258)
+
 
 
  ## Endpoints da API
@@ -106,7 +106,7 @@ api.security.token.secret=${JWT_SECRET:12345678}
     "curso": "Google Cloud"
   }
   ```
-![post da API](https://github.com/ThiagoDeSena/Forum-Hub/assets/110785400/e5687ca7-0dec-45f9-8658-ec3bb8a4e0b8)
+
 
 
 <h3>Mostrar todos os tópicos criados</h3>
@@ -190,7 +190,7 @@ api.security.token.secret=${JWT_SECRET:12345678}
     "empty": false
   }
   ```
-![GET](https://github.com/ThiagoDeSena/Forum-Hub/assets/110785400/33bc4417-d232-4683-9979-786e11b0d063)
+
 
 <h3>Mostrar um tópico específico</h3>
 
@@ -207,7 +207,7 @@ api.security.token.secret=${JWT_SECRET:12345678}
     "curso": "Css"
   }
   ```
-![get{id}](https://github.com/ThiagoDeSena/Forum-Hub/assets/110785400/1e2b145d-29c5-4b60-82a1-93668052f295)
+
 
 <h3>Atualizar um Tópico</h3>
 
@@ -248,6 +248,6 @@ A documentação da API gerada pelo Spring Doc pode ser acessada em ```http://lo
 
 ## Desenvolvedores
 
-[<img src="https://avatars.githubusercontent.com/u/110785400?v=4" width=115><br><sub>Thiago De Sena</sub>](https://www.linkedin.com/in/thiago-de-sena-ab5b09179/)
+[<img src="" width=115><br><sub>Estefany</sub>]()
 
 
